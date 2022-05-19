@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sandeep 👨‍💻
 
-I am Senior Sotware Developer having a interest and working as android native developer. I am passionate about technologies and love to learn new things.
+I am wroking as Senior Sotware Developer and having a interest and working as android native developer. I am passionate about technologies and love to learn new things.
 
 ### 🔭 Have a look at my career path (www.sandeepksatpute.wixsite.com/resume/).
 
