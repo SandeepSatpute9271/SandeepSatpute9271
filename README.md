@@ -11,9 +11,9 @@ I am wroking as Senior Sotware Developer and having a interest and working as an
 Here are a few things I've picked up along my learning journey.
 
 ## Mobile Dev
-Icon | Name | URL 
+Icon | Name
 :-----:|  :-----: | -----
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android | `https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png`
+<img height="50" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png"> | Android
 
 
 ## Tools
