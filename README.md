@@ -27,6 +27,7 @@ Icon | Name |
 Icon | Name |  
 :-----:|  :-----: | 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> | Java | 
+<img align="left" style="margin-right:10px" target="_blank" alt="Kotlin" width="26px" src="https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png?raw=true" />(https://github.com/PrinceCorwin/Useful-tech-icons/blob/main/images/kotlin.png "Kotlin") | Kotlin |
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png"> | Maven | 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117446983-2e532980-af3d-11eb-823a-db81096fa435.png"> | Struts | 
 <img height="50" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png"> | JUnit | 
