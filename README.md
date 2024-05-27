@@ -3,7 +3,7 @@
 
 I am working as Technical Specialist having interest and working as android native developer. I am passionate about technologies and love to learn new things.
 
-### 🔭 Have a look at my career path (www.sandeepksatpute.wixsite.com/resume/).
+### 🔭 Have a look at my career path (https://sandeepksatpute.wixsite.com/resume).
 
 
 ## ⚡ Tech Stack
