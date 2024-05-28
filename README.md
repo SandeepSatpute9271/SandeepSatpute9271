@@ -1,7 +1,7 @@
 
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Sandeep 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hey there 👨‍💻
 
-I am working as Technical Specialist having interest and working as android native developer. I am passionate about technologies and love to learn new things.
+I wear two hats! By day, I'm a Technical Specialist, but my passion lies in building native Android apps. I'm constantly learning new technologies to stay ahead of the curve.
 
 ### 🔭 Have a look at my career path (https://sandeepksatpute.wixsite.com/resume).
 
